@@ -1,0 +1,61 @@
+
+.underline:hover {
+cursor: pointer;
+text-decoration: underline;}
+h1 span { 
+padding: 0;
+margin-top: 10px;
+letter-spacing: -5px;
+font-size: 2.5em;
+-webkit-text-stroke: 2px;
+cursor: pointer;
+text-align: center;
+}
+
+#srchbtn{
+margin-top: 10px;
+background-color: rgb(57, 57, 255);
+color: aliceblue;
+border: #f5f5f5;
+}
+
+#Home{
+background-color: rgb(57, 57, 255);
+color: white;
+float: right;
+
+}
+#e {
+display: inline-block;
+transform: rotate(-25deg);
+position: relative;
+left: -8.5px;
+}
+
+.container {
+margin-top: 120px;
+}
+body,
+html {
+padding: 0px;
+margin: 0px;
+text-align: center;
+font-family: Comfortaa;
+background-color: rgb(73, 73, 73);
+}
+
+.search {
+width: 543.026px;
+height: 37.9972px;
+margin: 50px auto;
+}
+
+.search input {
+width: 525.043px;
+height: 37.9972px;
+padding: 0 5px;
+font-size: 17px;
+}
+h2{
+text-align: right;
+}
