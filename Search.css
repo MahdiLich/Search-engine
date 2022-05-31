@@ -43,6 +43,7 @@ margin: 0px;
 text-align: center;
 font-family: Comfortaa;
 background-color: rgb(73, 73, 73);
+display: grid;
 }
 
 .search {
