@@ -47,16 +47,19 @@ display: grid;
 }
 
 .search {
-width: 543.026px;
-height: 37.9972px;
+   
+    height: 37.9972px;
 margin: 50px auto;
+display: contents;
 }
 
 .search input {
-width: 525.043px;
+    min-width: 350px;
+max-width: auto;
 height: 37.9972px;
 padding: 0 5px;
 font-size: 17px;
+
 }
 h2{
 text-align: right;
